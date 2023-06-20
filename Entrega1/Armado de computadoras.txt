@@ -1,0 +1,51 @@
+﻿Gama baja - Intel
+
+
+Procesador
+	Core i3 7100
+	Placa madre
+	ASUS TUF B360M-PLUS 
+	Memoria principal
+	kingston 8 gb dd4
+	Memoria secundaria
+	disco 1 tb sata
+	
+
+
+
+Gama media - AMD
+Procesador
+	AMD Ryzen 5 3600
+	Placa madre
+	A320M Asrock
+	Memoria principal
+	Corsair Vengeance LPX 16GB (2x8GB) DDra4 3200MHz
+	Memoria secundaria
+	Kingston a2000 500Gb NVMe PCle M.2 SSD
+
+
+	GPU
+	NVIDIA GeForce GTX 1660 Super
+	
+
+
+
+
+
+Gama alta - Intel
+
+
+
+
+Procesador
+	Core i9-11900k
+	Placa Madre
+	Gigabyte Z590 AORUS ULTRA: Modelo Z590 AORUS Ultra Chipset Intel Z590, Socket LGA 1200
+	Memoria principal
+	Corsair Vengeance RGB pro -32GB, 3200 MHz
+	Memoria secundaria
+	Samsung 980 PRO NVMe SSD: Model MZ-V8P1T0B
+
+
+	GPU
+	Nvidia GeForce RTX 3080 Ti 12GB
