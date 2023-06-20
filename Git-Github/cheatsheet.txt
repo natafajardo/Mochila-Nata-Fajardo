@@ -1,0 +1,4 @@
+git clone:Clonar un repositorio ya existente
+git pull: actualizar los archivos contra la branch actual
+git fetch: obtener los cambios pero no aplicarlos a la rama actual
+git status: muetsra el estado de los archivos en su repositorio
