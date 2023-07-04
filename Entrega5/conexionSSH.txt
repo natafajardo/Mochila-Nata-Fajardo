@@ -1,0 +1,22 @@
+﻿Para conectarnos a través del protocolo SSH es necesario preparar nuestra máquina virtual o servidor linux es necesario:
+
+∫
+* Conocer la dir ip de nuestra VM o server linux
+* Tener en cuenta el user y contraseña
+* Instalar el paquete ssh (openssh-server)
+* verificar que  el servicio esté activo
+
+
+
+
+Por defecto el servicio ya está activo, si no es necesario activarlo a través de comandos adjuntados en la doc$- Pc remoto
+
+
+Es necesario habilitar el cliente telenet ya sea a gráficamente o en línea de comandos cmd administrador
+
+
+Una vez completada la preparación; ponemos el siguiente comando en cmd:
+ssh usuario@server
+ejemplo: ssh root@143.132.1.1
+ *posteriormente nos pedirá un usuario y contraseña
+Una vez verificado las credenciales ya estaremos dentro de nuestro server linux o VM y podremos acceder al shell de la $***
