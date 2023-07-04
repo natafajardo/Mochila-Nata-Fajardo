@@ -1,0 +1,11 @@
+﻿ip publica
+10.0.2.15
+
+
+
+
+
+
+¿Es diferente la ip pública y la ip privada de nuestra máquina host?
+* La ip privada o interna de nuestra pc es diferente porque su asignación es dinámica 
+* Mientras  que las ip privadas serán las mismas porque están conectados a la misma red WIFI
